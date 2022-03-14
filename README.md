@@ -10,8 +10,8 @@ Powershell Tools for maintenance Active Directory<br/>
 -Terminate User<br/>
 -Managing AD groups<br/>
 In order to run the script, there are some place need to be edit<br/>
-I. Line 563 Edit "ChangePassword" to any password you want to setup as default password<br/>
-After reset password, will turn on ChangePasswordAtLogon feature.<br/>
-II. Line 649 need to edit the DN for Moving Terminated User to specific container.<br/>
-III. Line 680 need to edit the DN for Moving Terminated PC to specific container.<br/>
+  -1. Line 563 Edit "ChangePassword" to any password you want to setup as default password<br/>
+  After reset password, will turn on ChangePasswordAtLogon feature.<br/>
+  -2. Line 649 need to edit the DN for Moving Terminated User to specific container.<br/>
+  -3. Line 680 need to edit the DN for Moving Terminated PC to specific container.<br/>
 <br/>
